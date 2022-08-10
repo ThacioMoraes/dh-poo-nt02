@@ -1,4 +1,4 @@
-package br.com.digitalhouse.aula5.exercicioguiado.models;
+package br.com.digitalhouse.aula5.exercicio_guiado.models;
 
 public class Cliente {
 

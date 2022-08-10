@@ -1,6 +1,6 @@
-package br.com.digitalhouse.aula5.exercicioguiado;
+package br.com.digitalhouse.aula5.exercicio_guiado;
 
-import br.com.digitalhouse.aula5.exercicioguiado.models.Cliente;
+import br.com.digitalhouse.aula5.exercicio_guiado.models.Cliente;
 
 public class Main {
 

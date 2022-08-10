@@ -1,7 +1,5 @@
 package br.com.digitalhouse.aula2;
 
-import java.util.Scanner;
-
 public class ExerciciosVariaveis {
 
     static boolean ehDivisivel(int num1,int num2){
