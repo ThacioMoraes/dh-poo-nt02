@@ -1,6 +1,6 @@
-package br.com.digitalhouse.integracao2.exercicio_guiado;
+package br.com.digitalhouse.aula6_integracao2.exercicio_guiado;
 
-import br.com.digitalhouse.integracao2.exercicio_guiado.models.Impressora;
+import br.com.digitalhouse.aula6_integracao2.exercicio_guiado.models.Impressora;
 
 public class Main {
 

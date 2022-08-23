@@ -1,4 +1,4 @@
-package br.com.digitalhouse.integracao2.exercicio_guiado.models;
+package br.com.digitalhouse.aula6_integracao2.exercicio_guiado.models;
 
 import java.util.Calendar;
 import java.util.Date;

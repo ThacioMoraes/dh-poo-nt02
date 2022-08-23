@@ -1,4 +1,4 @@
-package br.com.digitalhouse.integracao1;
+package br.com.digitalhouse.aula3_integracao1;
 
 import java.util.Scanner;
 
