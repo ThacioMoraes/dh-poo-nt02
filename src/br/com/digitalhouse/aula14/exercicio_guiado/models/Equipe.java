@@ -14,6 +14,10 @@ public class Equipe {
         this.listaJogadores = new ArrayList<>();
     }
 
+    public List<Jogador> getListaJogadores() {
+        return listaJogadores;
+    }
+
     public void addJogador(Jogador j){
         listaJogadores.add(j);
     }
