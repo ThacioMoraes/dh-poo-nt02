@@ -1,7 +1,7 @@
-package br.com.digitalhouse.aula18.padrao_singleton.exercicio_singleton;
+package br.com.digitalhouse.aula18.padrao_singleton.exercicio_guiado_singleton;
 
-import br.com.digitalhouse.aula18.padrao_singleton.exercicio_singleton.models.HistoricoCompras;
-import br.com.digitalhouse.aula18.padrao_singleton.exercicio_singleton.models.Vendedor;
+import br.com.digitalhouse.aula18.padrao_singleton.exercicio_guiado_singleton.models.HistoricoCompras;
+import br.com.digitalhouse.aula18.padrao_singleton.exercicio_guiado_singleton.models.Vendedor;
 
 public class Main {
 

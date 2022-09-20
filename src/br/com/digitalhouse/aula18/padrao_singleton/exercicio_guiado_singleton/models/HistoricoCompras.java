@@ -1,4 +1,4 @@
-package br.com.digitalhouse.aula18.padrao_singleton.exercicio_singleton.models;
+package br.com.digitalhouse.aula18.padrao_singleton.exercicio_guiado_singleton.models;
 
 public class HistoricoCompras {
 
